@@ -20,12 +20,14 @@ export const enroladinhoMignon = {
   imagem: enroladinhoMignonImg,
   descricao: 'Finíssimas fatias de filé mignon enroladas no parmesão',
 };
+
 const casal20 = {
   nome: 'Casal 20',
   preco: 'R$ 29,00',
   imagem: casal20Img,
   descricao: 'Casal perfeito pão de alho caseiro e linguiça toscana grill',
 };
+
 const burguerPicanha = {
   nome: 'Burguer de Picanha',
   preco: 'R$ 44,90',
@@ -33,6 +35,7 @@ const burguerPicanha = {
   descricao:
     'Burguer de Picanha Angus, Queijo Cheddar, Crisp de Cebola e Geléia de Bacon',
 };
+
 const fishChips = {
   nome: 'Fish and Chips',
   preco: 'R$ 79,90',
@@ -40,6 +43,7 @@ const fishChips = {
   descricao:
     'Iscas de Peixe Empanada na Farinha Panko e Flocos de Milho e Batata Frita Palito',
 };
+
 const risotoCamaraoTrufado = {
   nome: 'Risoto de Camarão Trufado',
   preco: 'R$ 72,90',
@@ -55,6 +59,7 @@ const brownie = {
   descricao:
     'Delicioso brownie caseiro, sorvete de creme, calda quente de chocolate',
 };
+
 const cocadaForno = {
   nome: 'Cocada de Forno',
   preco: 'R$ 32,90',
@@ -62,6 +67,7 @@ const cocadaForno = {
   descricao:
     'Cremosa cocada de coco torrado, doce de leite argentino e sorvete de creme',
 };
+
 const petitGateau = {
   nome: 'Petit Gateau',
   preco: 'R$ 34,90',
@@ -76,24 +82,28 @@ const aguaSemGas = {
   imagem: aguaSemGasImg,
   descricao: '310ml',
 };
+
 const aguaComGas = {
   nome: 'Água com gás',
   preco: 'R$ 7,90',
   imagem: aguaComGasImg,
   descricao: '310ml',
 };
+
 const cocaCola = {
   nome: 'Coca-Cola',
   preco: 'R$ 7,90',
   imagem: cocaColaImg,
   descricao: '290ml',
 };
+
 const guarana = {
   nome: 'Guaraná Antártica',
   preco: 'R$ 7,90',
   imagem: guaranaImg,
   descricao: '350ml',
 };
+
 const heineken = {
   nome: 'Heineken',
   preco: 'R$ 15,90',
